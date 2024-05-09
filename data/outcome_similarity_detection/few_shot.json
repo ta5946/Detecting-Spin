@@ -1,0 +1,52 @@
+[
+    {
+        "primary_outcome": "the rate of acute gastrointestinal complications",
+        "reported_outcome": "the risk of acute gastrointestinal complications",
+        "label": 1
+    },
+    {
+        "primary_outcome": "more frequently interrupted MARS sessions without anticoagulation",
+        "reported_outcome": "had to be terminated prematurely",
+        "label": 1
+    },
+    {
+        "primary_outcome": "the prevalence of arm, shoulder and neck symptoms",
+        "reported_outcome": "symptoms",
+        "label": 1
+    },
+    {
+        "primary_outcome": "trough FEV 1 after 12 weeks of treatment",
+        "reported_outcome": "trough FEV 1 after one dose",
+        "label": 1
+    },
+    {
+        "primary_outcome": "pain catastrophising",
+        "reported_outcome": "global PC",
+        "label": 1
+    },
+    {
+        "primary_outcome": "morning peak expiratory flow after 4 weeks treatment",
+        "reported_outcome": "asthma quality of life score",
+        "label": 0
+    },
+    {
+        "primary_outcome": "changes in disc height as measured on CT scans",
+        "reported_outcome": "pain",
+        "label": 0
+    },
+    {
+        "primary_outcome": "blood pressure",
+        "reported_outcome": "the compliance in all the control criteria, except for LDL cholesterol",
+        "label": 0
+    },
+    {
+        "primary_outcome": "incidence of low back pain resulting in the seeking of health care",
+        "reported_outcome": "low back pain episodes",
+        "label": 0
+    },
+    {
+        "primary_outcome": "patient intention to visit a psychosocial counselor",
+        "reported_outcome": "patient satisfaction",
+        "label": 0
+    }
+]
